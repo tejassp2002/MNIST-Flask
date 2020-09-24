@@ -18,5 +18,5 @@ That's it! It's serving a saved Keras model to you via Flask.
 
 ## Credits
 
-The credits for this code go to [moinudeen](https://github.com/moinudeen). I've merely created a wrapper to get people started.
+The credits for this code go to [moinudeen](https://github.com/moinudeen).
 
